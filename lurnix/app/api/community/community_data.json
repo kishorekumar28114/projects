@@ -1,0 +1,31 @@
+{
+  "users": [],
+  "posts": [
+    {
+      "id": 1753466090732,
+      "title": "helo",
+      "content": "dd",
+      "author": {
+        "name": "DemoUser",
+        "avatar": "DU"
+      },
+      "category": "Algebra",
+      "attachments": [],
+      "upvotes": 0,
+      "comments": [
+        {
+          "id": 1753466329106,
+          "author": {
+            "name": "DemoUser",
+            "avatar": "DU"
+          },
+          "content": "hello",
+          "attachments": [],
+          "createdAt": "2025-07-25T17:58:49.106Z"
+        }
+      ],
+      "createdAt": "2025-07-25T17:54:50.732Z"
+    }
+  ],
+  "comments": []
+}
