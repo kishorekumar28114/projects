@@ -204,3 +204,4 @@ class MathQuizApp:
 root = tk.Tk()
 app = MathQuizApp(root)
 root.mainloop()
+
